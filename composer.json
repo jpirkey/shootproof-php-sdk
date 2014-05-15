@@ -1,5 +1,5 @@
 {
-    "name": "shootproof/php-sdk",
+    "name": "jpirkey-shootproof-php-sdk",
     "homepage": "http://www.shootproof.com/",
     "description": "The API comes free of charge with your ShootProof account and currently is only available in the form of JSON responses. Read up on the API documentation to discover the different methods that are available.",
     "keywords": ["shootproof"],
